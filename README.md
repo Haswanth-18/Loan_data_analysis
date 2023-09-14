@@ -38,22 +38,20 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 
 <h2>METHODOLOGY</h2>
-<li>The model was trained using Google's stock market data(Date, Open, High, Low, Close, Volume) to enhance its technical proficiency.
+<li>I have used algorithms and machine learning models in this process
 </li>
-<li>  The keras model helps to create a model, layer by layer. The dense layer is fully connected layer, so all the neurons in a layer are connected to those in a next layer by using tensorflow as a backend.</li>
+<li> Used machine learning models are: Logistic regression, Random forest, XGboost, Decision tree</li>
 <br/>
 
 **LONG SHORT TERM MEMORY NETWORK:**
  LTSMs are a type of Recurrent Neural Network for learning long-term dependencies.
 It is commonly used for processing and predicting time-series data.
 
-<h2>PLATFORMS</h2>
-
-
-**CODES IN DIFFERENT PLATFORMS:**
-
-It tooks nearly 48seconds to 58 seconds to run single keras model files in Jupyter n0tebook
-But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where this keras model consist of 100 files to run it and make to fit for the model.
+**Output of seggregating Customer details:**
+<div align="center">
+   <centre><h2> Heat map</centre><br />
+      </div>
+![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
 
 <br/>
 
