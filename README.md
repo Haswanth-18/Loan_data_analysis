@@ -46,9 +46,15 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
    <centre><h2> Heat map</centre><br />
       </div>
       <p align="center">
-  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/loan.jpg" width="400" height="240" >
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/heat%20map.png" width="400" height="240" >
 </p>
-
+      
+<div align="center">
+   <centre><h2> correlation table</centre><br />
+      </div>
+      <p align="center">
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/heat%20map.png" width="400" height="240" >
+</p>
 
 <br/>
 
