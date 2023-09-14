@@ -59,6 +59,9 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 <br/>
 
 <h2>accuracy of using machine learning models</h2>
+<p align="center">
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/loan.jpg" width="400" height="240" >
+</p>
 
 
 
