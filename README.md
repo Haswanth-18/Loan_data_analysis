@@ -21,9 +21,9 @@ Main motive of this project is to make work easier to the bankers by identifying
 
 **Usage of loan data analysis**
 
-1. We have to give data to the code
-2. Execute the train data and test data
-3. we can able to find the coloumns and rows of the given data
+1. It helps to arrange the datas separately
+2. Finding the details of the customer is easy
+3. Helps to analyse the financial status of the customer
 4. By using graphical representation we can find the no.of male and female and also represent the income details in the graphs
    and more.
    
@@ -32,7 +32,7 @@ Main motive of this project is to make work easier to the bankers by identifying
   <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/InteloneAPI.jpg" width="400" height="240" >
 </p>
 
-The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® OpenVINO toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
+The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® OneAPI Data Analytics Library(oneDAL)](https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2023-1/intel-oneapi-data-analytics-library-onedal.html) - Logistic regression, Random forest, XGboost, Decision tree it enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
 
 
 <h2>METHODOLOGY</h2>
@@ -58,9 +58,9 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 <br/>
 
-<h2>accuracy of using machine learning models</h2>
+<h2>Accuracy of using machine learning models</h2>
 <p align="center">
-  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/loan.jpg" width="400" height="240" >
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/accuracy.png" width="400" height="240" >
 </p>
 
 
