@@ -26,6 +26,7 @@ Main motive of this project is to make work easier to the bankers by identifying
 3. we can able to find the coloumns and rows of the given data
 4. By using graphical representation we can find the no.of male and female and also represent the income details in the graphs
    and more.
+   
 <h2>TECHNOLOGIES USED</h2>
 <p align="center">
   <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/InteloneAPI.jpg" width="400" height="240" >
@@ -34,24 +35,20 @@ Main motive of this project is to make work easier to the bankers by identifying
 The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® OpenVINO toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
 
 
-
-
-
 <h2>METHODOLOGY</h2>
 <li>I have used algorithms and machine learning models in this process
 </li>
 <li> Used machine learning models are: Logistic regression, Random forest, XGboost, Decision tree</li>
 <br/>
 
-**LONG SHORT TERM MEMORY NETWORK:**
- LTSMs are a type of Recurrent Neural Network for learning long-term dependencies.
-It is commonly used for processing and predicting time-series data.
-
 **Output of seggregating Customer details:**
 <div align="center">
    <centre><h2> Heat map</centre><br />
       </div>
-![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
+      <p align="center">
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/loan.jpg" width="400" height="240" >
+</p>
+
 
 <br/>
 
@@ -59,12 +56,7 @@ It is commonly used for processing and predicting time-series data.
    <centre><h2> openVINO notebook</centre><br />
       </div>
 
-![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
 
-<div align="center">
-   <centre><h2>local machine's notebook
-</centre><br />
-      </div>
 
 
   ![image](https://user-images.githubusercontent.com/105495867/225222368-8dacf339-445f-4b2c-8404-53a0526ef6ca.png)
