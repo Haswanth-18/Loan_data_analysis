@@ -62,6 +62,13 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 <p align="center">
   <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/accuracy.png" width="400" height="240" >
 </p>
+<h2>Code and output of Decision tree and Random forest</h2>
+<div align="center">
+   <centre><h2>Code and Output</centre><br />
+      </div>
+      <p align="center">
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/corr.png" width="400" height="240" >
+</p>
 
 
 
