@@ -58,10 +58,6 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 <br/>
 
-<h2>Accuracy of using machine learning models</h2>
-<p align="center">
-  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/accuracy.png" width="400" height="240" >
-</p>
 <h2>Code and output of Meachine learning models</h2>
 <div align="center">
    <centre><h2>Decision tree and Random forest</centre><br />
@@ -73,7 +69,11 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
    <centre><h2>XG boost and logistic regression</centre><br />
       </div>
       <p align="center">
-  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/ml%20model%201.png" width="400" height="240" >
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/ml%20model%202.png" width="400" height="240" >
+</p>
+<h2>Accuracy of using machine learning models</h2>
+<p align="center">
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/accuracy.png" width="400" height="240" >
 </p>
 
 
