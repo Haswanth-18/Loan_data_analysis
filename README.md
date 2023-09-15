@@ -67,7 +67,7 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
    <centre><h2>Code and Output</centre><br />
       </div>
       <p align="center">
-  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/corr.png" width="400" height="240" >
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/ml%20model%201.png" width="400" height="240" >
 </p>
 
 
