@@ -62,9 +62,15 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 <p align="center">
   <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/accuracy.png" width="400" height="240" >
 </p>
-<h2>Code and output of Decision tree and Random forest</h2>
+<h2>Code and output of Meachine learning models</h2>
 <div align="center">
-   <centre><h2>Code and Output</centre><br />
+   <centre><h2>Decision tree and Random forest</centre><br />
+      </div>
+      <p align="center">
+  <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/ml%20model%201.png" width="400" height="240" >
+</p>
+<div align="center">
+   <centre><h2>XG boost and logistic regression</centre><br />
       </div>
       <p align="center">
   <img src="https://github.com/Haswanth-18/Loan_data_analysis/blob/main/customer_dataset/ml%20model%201.png" width="400" height="240" >
